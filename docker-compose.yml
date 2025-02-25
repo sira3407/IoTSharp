@@ -15,7 +15,6 @@ services:
     networks:
       - iotsharp-network
 
-
   pgadmin:
     image: dpage/pgadmin4
     container_name: pgadmin
